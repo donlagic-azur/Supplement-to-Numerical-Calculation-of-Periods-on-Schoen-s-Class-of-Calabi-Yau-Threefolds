@@ -1,4 +1,4 @@
-# Maple-readable numerical data extracted from tables/result blocks in:
+# Maple-readable numerical data supplementing the paper "Numerical Calculation of Periods on Schoen's Class of Calabi-Yau Threefolds" by Azur Đonlagić.
 # Complex numbers use Maple's imaginary unit I. Increase Digits before numerical work if needed.
 restart:
 Digits := 80:
